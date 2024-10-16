@@ -4,21 +4,21 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = '2347045602655'
+global.nomerowner = ["2347045602655"]
 
 // Apikey 
 
 global.skizo = 'David Cyril'
 global.casterix = 'DeeCeeXxx'
 //watermark 
-global.packname = '*DAVID CYRIL*'
+global.packname = '*veron*'
 global.author = 'QUEEN_ANITA-V3'
 
 // cpanel 
 global.domain = 'https://' // deeceexxx
 global.apikey2 = 'ptlc' // I love anita
-global.capikey2 = 'ptla' // david x anita 
+global.capikey2 = 'ptla' // alahandru x anita 
 global.eggsnya = '15' // The id eggs used if the id is 5, just leave it, don't change it
 global.location = '1' // id location
 
@@ -60,18 +60,18 @@ global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;       //make true to view statuses
 global.unavailable = true;     
 //to show your real presence  
-global.available = false;   
+global.available = true;   
 // to show always online  
 global.autoreadmessages = false;   
 ///To always read messages
 global.chatbot = false;
 global.autoreact = false;
 
-global.welcome = false;
+global.welcome = true;
 
 global.prefix = '.';
 
-global.autobio = false;
+global.autobio = true;
 
 
 //_____________//
